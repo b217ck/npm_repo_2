@@ -1,0 +1,19 @@
+{
+  "name": "npm_repo_2",
+  "version": "1.0.0",
+  "description": "npm_repo_2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b217ck/npm_repo_2.git"
+  },
+  "author": "b217ck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b217ck/npm_repo_2/issues"
+  },
+  "homepage": "https://github.com/b217ck/npm_repo_2#readme"
+}
